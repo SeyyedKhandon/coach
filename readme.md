@@ -17,13 +17,13 @@ We recommend to read the Coach series in this order:
 1. **Prepare your work environment & develop a project** - (draft in progress)
 1. **The Missing Key to Employment & Growth: Connection(LinkedIn, Resume, Apply)** - (draft in progress)
 
----
+
 
 ## Be a part of future
 
 Leave your mark on the future by [supporting](./support.md) and contributing to coach (your book) series.
 
----
+
 
 ### How to Contribute:
 
@@ -36,9 +36,9 @@ Our goal is to expand this project to cover all fields, creating a comprehensive
 
 [Contribution / Git Flow](./contribution.md)
 
----
 
-## Main contributors
+
+#### Main contributors
 
 <table>
   <tbody>
@@ -96,7 +96,6 @@ Our goal is to expand this project to cover all fields, creating a comprehensive
   </tbody>
 </table>
 
----
 
 ## License & Copyright
 
