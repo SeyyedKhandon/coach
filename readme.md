@@ -1,44 +1,44 @@
-In the name of God
+<div dir="auto">
+بسم الله الرحمن الرحیم
+</div>
+<div dir="auto">
 
-# Frontend Coach - Become a TeamLead the right way (book series)
+<br/>
 
-> ||| The Missing Manual to become a TeamLead the right way |||
+سایر زبانها: [English](./readme-en.md)
 
-This is a series of coaching books diving deep into the finding the right way(one of few possible ways) of growing to become a team-lead via skipping the wrong paths.
+# مجموعه کتاب مربی فرانت‌اند – چطور یه رهبر تیم بشیم
+
+> ||| راهنمای گمشده برای اینکه به روش درست به یک تیم‌لید تبدیل بشیم |||
+
+این مجموعه کتاب می‌خواد بهتون نشون بده چطور می‌تونید مسیر درست مطابق با شرایطتتون (از بین هزاران مسیر ممکن) رو برای رشد کردن به سمت رهبر تیم شدن پیدا کنید و از راه‌های اشتباه دور بمونید.
 
 <a href="https://github.com/SeyyedKhandon/coach"><img src="assets/coach-goal-path-planning.png" width="100"></a>
 
-## Titles
+## عناوین کتاب
 
-We recommend to read the Coach series in this order:
+پیشنهادمون اینه که کتاب‌های «مربی» رو به ترتیب زیر بخونید:
 
-1. **Coach: Goal, Path, Resources & Planning** - download
-1. **The Missing Manual for Contribution in Communities** - (draft available on [draft](https://github.com/SeyyedKhandon/stackoverflow-the-right-way))
-1. **Prepare your work environment & develop a project** - (draft in progress)
-1. **The Missing Key to Employment & Growth: Connection(LinkedIn, Resume, Apply)** - (draft in progress)
+1. **مربی: هدف، مسیر، منابع و برنامه‌ریزی** – (لینک دانلود)
+2. **راهنمای گمشده برای فعالیت در جامعه های تخصصی** – (نسخه پیش‌نویسش [اینجاست](https://github.com/SeyyedKhandon/stackoverflow-the-right-way))
+3. **آماده‌سازی محیط کار حرفه ای و راه‌اندازی یه پروژه** – (در حال نگارش پیش‌نویس)
+4. **کلید گمشده برای استخدام و رشد: ارتباط (لینکدین، رزومه، درخواست کار)** – (در حال نگارش پیش‌نویس)
 
+## تو هم یه گوشه‌ای از آینده باش
 
+اگه دوست داری آینده رو بسازی، می‌تونی با [حمایت](./support.md) و همکاری در مجموعه کتاب‌های مربی، رد پات رو توی آینده بذاری.
 
-## Be a part of future
+### چطور همکاری کنی:
 
-Leave your mark on the future by [supporting](./support.md) and contributing to coach (your book) series.
+ما از فرانت‌اند شروع کردیم. مثلاً تو کتاب اول، منابعی داریم که برای همه زمینه‌ها مفیده ولی یه بخش تخصصی هم برای فرانت‌اند داره. این یعنی فضا برای اضافه کردن تخصص‌های دیگه مثل بک‌اند، دواپس و غیره هم بازه.
 
+پس اگه حوزه کاریت فرانت‌اند هم نیست، باز هم می‌تونی کمک کنی. مثلاً اگه منابع باارزشی تو بک‌اند(مانند توسعه بک‌اند با Java، Python، Rust و غیره) یا هر زمینه دیگه می‌شناسی، خوشحال می‌شیم اون‌ها رو در قالب RFC در یک [issue](https://github.com/SeyyedKhandon/coach/issues) ثبت کنی تا وقتی که به وضعیت تایید رسید اونا رو به [مجموعه](other-topics.md) اضافه کنیم.
 
+هدفمون اینه که این پروژه رو گسترش بدیم و همه حوزه‌ها رو پوشش بدیم تا راهنمای جامعی بشه برای همه آدم‌ها و هر چیزی که می‌تونه به پیشرفت زندگی ما آدم‌ها کمک کنه.
 
-### How to Contribute:
+[مشارکت / Git Flow](./contribution.md)
 
-We started this series by a focus on Frontend, for example `FE resources in the first book` has some general resources for every field and also covers especial topics in FE, so it means there is room to grow this project to cover other fields such as Backend, DevOps, etc.
-
-Therefore we will welcome your contribution even if your expertise lies outside of Frontend. If you know valuable resources in other fields—such as Backend development (Java, Python, Rust, etc.)—we’d love to include them in our [series](other-topics.md) for later to be added in the RFC. 
-
-Our goal is to expand this project to cover all fields, creating a comprehensive guide for everyone and every useful topics that can benefit humanity.
-
-
-[Contribution / Git Flow](./contribution.md)
-
-
-
-#### Main contributors
+#### مشارکت کنندگان اصلی
 
 <table>
   <tbody>
@@ -51,7 +51,7 @@ Our goal is to expand this project to cover all fields, creating a comprehensive
             alt="Seyyed Mahdi Hassanpour"
           />
           <br />
-          <sub><b>Seyyed Mahdi Hassanpour</b></sub>
+          <sub><b>سید مهدی حسن پور-مولف</b></sub>
         </a>
         <br />
         <a href="https://seyyedkhandon.com/" title="Code">💻</a>
@@ -64,7 +64,7 @@ Our goal is to expand this project to cover all fields, creating a comprehensive
             alt="Zahra Mirzaei"
           />
           <br />
-          <sub><b>Zahra Mirzaei</b></sub>
+          <sub><b>زهرا میرزایی - ویراستار</b></sub>
         </a>
       </td>
       <td align="center" valign="top" width="25.28%">
@@ -75,7 +75,7 @@ Our goal is to expand this project to cover all fields, creating a comprehensive
             alt="Seyyed Hossein Hasanpour"
           />
           <br />
-          <sub><b>Seyyed Hossein Hasanpour</b></sub>
+          <sub><b>سید حسین حسن پور-حامی</b></sub>
         </a>
         <br />
         <a href="https://deeplearning.ir/" title="Code">💻</a>
@@ -88,17 +88,19 @@ Our goal is to expand this project to cover all fields, creating a comprehensive
             alt="Hamann Naqiniarami"
           />
           <br />
-          <sub><b>Hamann Naqiniarami</b></sub>
+          <sub><b>هامان نقی نیارمی - طراح</b></sub>
         </a>
       </td>
     </tr>
-
-  </tbody>
+</tbody>
 </table>
 
+## مجوز و حق نشر
 
-## License & Copyright
+تمام حقوق این مجموعه متعلق به سید مهدی حسن‌پور (SeyyedKhandon) است.
 
-The materials herein are all &copy; 2025 Seyyed Mahdi Hassanpour (SeyyedKhandon).
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />این اثر تحت مجوز  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Attribution-NonCommercial-NoDerivatives 4.0 International</a>  منتشر شده است.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Attribution-NonCommercial-NoDerivatives 4.0 International</a>.
+
+
+</div>
